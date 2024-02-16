@@ -45,7 +45,8 @@ footer{
 	display: none;
 }
 
-[epub|type~="z3998:poem"] p + p{
+[epub|type~="z3998:poem"] p + p,
+[epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
 
@@ -56,11 +57,12 @@ p span.i1{
 /* end poetry */
 
 /* Begin EXTRAS */
-#epigraph p:nth-of-type(n+10){
-	font-style: normal;
-}
-
+#chapter-9 blockquote p:nth-child(3) span:last-of-type,
 q{
 	font-style: italic;
+}
+
+#epigraph p:nth-of-type(n+10){
+	font-style: normal;
 }
 /* end extras */
