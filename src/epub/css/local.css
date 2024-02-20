@@ -52,7 +52,7 @@ p span.i1{
 /* end poetry */
 
 /* Begin EXTRAS */
-#chapter-9 blockquote p:nth-child(3) span:last-of-type,
+#chapter-9 blockquote p:nth-child(3) span:last-child,
 q{
 	font-style: italic;
 }
