@@ -32,29 +32,28 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85112657</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young dissenting minister searches for love and meaning amidst loneliness and doubt.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The child of a pious non-conformist home in the Midlands, Mark Rutherford trains for dissenting church ministry almost by default. Although outwardly not an especially pious young man, he nonetheless has depths to his spirit which seek meaning for his beliefs. As he settles into his first pastorate, Rutherford discovers that substance to his creed is too faint to support his public ministry. As he reaches this crisis of faith, so too he reaches a point of crisis in personal relationships.&lt;/p&gt;
+			&lt;p&gt;The &lt;i&gt;Autobiography&lt;/i&gt; reads very much like an amalgam “life-writing” and spiritual quest. The yearning for a kindred spirit and love is both distinct from, and simultaneously wrapped up in, the search for God and authentic faith.&lt;/p&gt;
+			&lt;p&gt;Already by 1908, Rutherford’s “autobiography” had been used as the leading example of what one essayist termed “autobiografiction”—an apt category for this novel in which so much of &lt;a href="https://standardebooks.org/ebooks/mark-rutherford"&gt;William Hale White’s&lt;/a&gt; own life is infused. The contemporary author, &lt;a href="https://standardebooks.org/ebooks/william-dean-howells"&gt;William Dean Howells&lt;/a&gt;, was deeply impressed by Rutherford’s &lt;i&gt;Autobiography&lt;/i&gt;, although also baffled by it. “We hardly know … whether to call [it] fiction,” he wrote in &lt;i&gt;Harper’s Magazine&lt;/i&gt;, at a time when the true identity of the author was as yet unknown. Howells’s sense that “readers who can think and feel” would find themselves “deeply stirred by it” remains true well over a century later.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3269</dc:source>
 		<dc:source>https://archive.org/details/autobiographyofm00ruth</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-rutherford_the-autobiography-of-mark-rutherford</meta>
 		<dc:creator id="author">Mark Rutherford</dc:creator>
 		<meta property="file-as" refines="#author">Rutherford, Mark</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Hale_White</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no96045809</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Charles Auguste Émile Durand</dc:contributor>
+		<meta property="file-as" refines="#artist">Durand, Charles Auguste Émile</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Carolus-Duran</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n87896143</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
