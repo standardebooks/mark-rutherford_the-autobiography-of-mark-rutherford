@@ -62,7 +62,7 @@ q{
 	font-style: italic;
 }
 
-#epigraph p:nth-of-type(n+10){
+#epigraph hr ~ p{
 	font-style: normal;
 }
 /* end extras */
