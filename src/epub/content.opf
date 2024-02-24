@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/mark-rutherford/the-autobiography-of-mark-rutherford</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-02-24T18:27:11Z</dc:date>
+		<meta property="dcterms:modified">2024-02-24T18:27:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,15 +34,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young dissenting minister searches for love and meaning amidst loneliness and doubt.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The child of a pious non-conformist home in the Midlands, &lt;a href="https://standardebooks.org/ebooks/mark-rutherford"&gt;Mark Rutherford&lt;/a&gt; trains for dissenting church ministry almost by default. Although outwardly not an especially pious young man, he nonetheless has depths to his spirit which seek meaning for his beliefs. As he settles into his first pastorate, Rutherford discovers that substance to his creed is too faint to support his public ministry. As he reaches this crisis of faith, so too he reaches a point of crisis in personal relationships.&lt;/p&gt;
-			&lt;p&gt;The &lt;i&gt;Autobiography&lt;/i&gt; reads very much like an amalgam “life-writing” and spiritual quest. The yearning for a kindred spirit and love is both distinct from, and simultaneously wrapped up in, the search for God and authentic faith. It was the first novel by Mark Rutherford, the pen name of William Hale White. Beyond the actual pseudonym, the novel’s “editor,” Reuben Shapcott, who ostensibly contributes the preface as well as the concluding paragraphs of this work, is a figment of White’s imagination. Even after the pseudonym was penetrated, readers continued to wonder just what the relationship was between author and character, as the boundary between them remains difficult to discern.&lt;/p&gt;
-			&lt;p&gt;Already by 1908, Rutherford’s “autobiography” had been used as the leading example of what one essayist termed “autobiografiction”—an apt category for this novel in which so much of William Hale White’s own life is infused. The contemporary author, &lt;a href="https://standardebooks.org/ebooks/william-dean-howells"&gt;William Dean Howells&lt;/a&gt;, was deeply impressed by Rutherford’s &lt;i&gt;Autobiography&lt;/i&gt;, although also baffled by it. “We hardly know … whether to call [it] fiction,” he wrote in &lt;i&gt;Harper’s Magazine&lt;/i&gt;, at a time when the true identity of the author was as yet unknown. Howells’s sense that “readers who can think and feel” would find themselves “deeply stirred by it” remains true well over a century later.&lt;/p&gt;
+			&lt;p&gt;Born to a pious non-conformist home in the Midlands, &lt;a href="https://standardebooks.org/ebooks/mark-rutherford"&gt;Mark Rutherford&lt;/a&gt; trains for dissenting church ministry almost by default. Although outwardly not an especially devout young man, he nonetheless has depths to his spirit which lead him to seek meaning in his beliefs. As he settles into his first pastorate, Rutherford discovers that the substance of his creed is too faint to support his public ministry. As he reaches this crisis of faith, so too he reaches a point of crisis in personal relationships.&lt;/p&gt;
+			&lt;p&gt;The &lt;i&gt;Autobiography&lt;/i&gt; is the first novel by Mark Rutherford, the pen name of William Hale White. Beyond the pseudonym, the novel’s “editor,” Reuben Shapcott, who ostensibly contributes the preface as well as the concluding paragraphs, is a figment of White’s imagination. Even after White’s identity as the real author of the novel was uncovered, readers continued to wonder just what the relationship was between author and character, as the boundary between them is difficult to discern. How much this work of “autiobiography” is actually fiction remains an open question.&lt;/p&gt;
+			&lt;p&gt;By 1908 the &lt;i&gt;Autobiography&lt;/i&gt; was being used as the leading example of what one essayist termed “autobiografiction,” or the blending of autiobiography and fiction—an apt category for this story, in which so much of White’s real life is infused. White’s contemporary, &lt;a href="https://standardebooks.org/ebooks/william-dean-howells"&gt;William Dean Howells&lt;/a&gt;, was deeply impressed by the novel, although he was also baffled by it. “We hardly know … whether to call [it] fiction,” he wrote in &lt;i&gt;Harper’s Magazine&lt;/i&gt;, at a time when the true identity of the author was as yet unknown. Howells’s sense that “readers who can think and feel” would find themselves “deeply stirred by it” remains true well over a century later.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3269</dc:source>
 		<dc:source>https://archive.org/details/autobiographyofm00ruth</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">43074</meta>
+		<meta property="se:reading-ease.flesch">65.35</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-rutherford_the-autobiography-of-mark-rutherford</meta>
 		<dc:creator id="author">Mark Rutherford</dc:creator>
 		<meta property="file-as" refines="#author">Rutherford, Mark</meta>
@@ -68,6 +68,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
