@@ -37,7 +37,6 @@ section[epub|type~="epigraph"] > *{
 	}
 }
 /* End full-page epigraphs */
-
 /* end epigraphs */
 
 /* Begin LETTERS */
@@ -93,7 +92,7 @@ q{
 	font-style: italic;
 }
 
-#epigraph hr ~ p{
+#epigraph p:nth-child(n+10){
 	font-style: normal;
 }
 /* end extras */
