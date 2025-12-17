@@ -42,7 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3269</dc:source>
 		<dc:source>https://archive.org/details/autobiographyofm00ruth</dc:source>
-		<meta property="se:word-count">43072</meta>
+		<meta property="se:word-count">43071</meta>
 		<meta property="se:reading-ease.flesch">65.46</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-rutherford_the-autobiography-of-mark-rutherford</meta>
 		<dc:creator id="author">Mark Rutherford</dc:creator>
