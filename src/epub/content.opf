@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85112657</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young dissenting minister searches for love and meaning amidst loneliness and doubt.</dc:abstract>
+		<meta property="schema:abstract">A young dissenting minister searches for love and meaning amidst loneliness and doubt.</meta>
 		<dc:description>
 			&lt;p&gt;Born to a pious non-conformist home in the Midlands, &lt;a href="https://standardebooks.org/ebooks/mark-rutherford"&gt;Mark Rutherford&lt;/a&gt; trains for dissenting church ministry almost by default. Although outwardly not an especially devout young man, he nonetheless has depths to his spirit which lead him to seek meaning in his beliefs. As he settles into his first pastorate, Rutherford discovers that the substance of his creed is too faint to support his public ministry. As he reaches this crisis of faith, so too he reaches a point of crisis in personal relationships.&lt;/p&gt;
 			&lt;p&gt;The &lt;i&gt;Autobiography&lt;/i&gt; is the first novel by Mark Rutherford, the pen name of William Hale White. Beyond the pseudonym, the novel’s “editor,” Reuben Shapcott, who ostensibly contributes the preface as well as the concluding paragraphs, is a figment of White’s imagination. Even after White’s identity as the real author of the novel was uncovered, readers continued to wonder just what the relationship was between author and character, as the boundary between them is difficult to discern. How much this work of “autobiography” is actually fiction remains an open question.&lt;/p&gt;
